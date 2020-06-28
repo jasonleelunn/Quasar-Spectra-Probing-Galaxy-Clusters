@@ -1,6 +1,6 @@
 # Quasars Probing Galaxy Clusters
 
-An astrophysical coding based project focused on processing quasar spectral data from the [SDSS eBOSS Data Release 14](https://dr15.sdss.org), and combining these results to analyse data from the [Clusters Around Radio-Loud AGN (CARLA) Spizter Survey](http://arxiv.org/abs/1304.0770) in order to study the environments of proto galaxy clusters in the distant Universe. The full project write-up can be found in the Research Project Report pdf file.
+An astrophysical coding based project focused on processing quasar spectral data from the [SDSS eBOSS Data Release 14](https://dr15.sdss.org), and combining these results to analyse data from the [Clusters Around Radio-Loud AGN (CARLA) Spizter Survey](http://arxiv.org/abs/1304.0770) in order to study the environments of proto galaxy clusters in the distant Universe. The full project write-up can be found in the [Research Project Report pdf file](Research\ Project\ Report.pdf).
 
 ## Motivation and Project Aims
 
