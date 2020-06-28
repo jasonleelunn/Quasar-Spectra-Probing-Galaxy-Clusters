@@ -26,8 +26,8 @@ background quasars.
 
 The two figures below visualise the spectral flux stacking method used in this project. Multiple continuum fitted quasar sight line spectra are aligned according the the galaxy cluster's rest frame, and then averaged together in an attempt to find a Lyman alpha absorption signal.
 
-![Unstacked Quasar Spectra for CARLA Cluster J085051.80+152215.0](Stacking Figures/J085051.80+152215.0_unstacked.svg "Unstacked Quasar Spectra for CARLA Cluster J085051.80+152215.0")
-![Stacked Quasar Spectra for CARLA Cluster J085051.80+152215.0](Stacking Figures/J085051.80+152215.0_stacked.svg "Stacked Quasar Spectra for CARLA Cluster J085051.80+152215.0")
+![Unstacked Quasar Spectra for CARLA Cluster J085051.80+152215.0](Stacking\ Figures/J085051.80+152215.0_unstacked.svg "Unstacked Quasar Spectra for CARLA Cluster J085051.80+152215.0")
+![Stacked Quasar Spectra for CARLA Cluster J085051.80+152215.0](Stacking\ Figures/J085051.80+152215.0_stacked.svg "Stacked Quasar Spectra for CARLA Cluster J085051.80+152215.0")
 
 ## Changelog
 
