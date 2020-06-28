@@ -1,34 +1,34 @@
 # Quasars Probing Galaxy Clusters
-Through studying the effect of intervening neutral hydrogen in the spectra of high redshift QSO, A
-series of studies have been performed, advancing current techniques used to understand protoclusters
-that coalesced under gravity to form the cosmic structures we see in the universe today. This
-review analyses the preceding methods by which these structures have been studied, as well as
+
+An astrophysical coding based project focused on processing quasar spectral data from the [SDSS eBOSS Data Release 14](https://dr15.sdss.org), and combining these results to analyse data from the [Clusters Around Radio-Loud AGN (CARLA) Spizter Survey](http://arxiv.org/abs/1304.0770) in order to study the environments of proto galaxy clusters in the distant Universe.
+
+## Motivation and Project Aims
+
+Through studying the effect of intervening neutral hydrogen in the spectra of high redshift QSO we have been able to advance current techniques used to understand protoclusters
+that coalesce under gravity to form the cosmic structures we see in the universe today. This
+project analyses the preceding methods by which these structures have been studied, as well as
 detailing a new line of research, first crafted for use in the study of other QSO in the line of sight
 to background quasars. This work utilised this quasar probing technique
 to study protoclusters by measuring absorption of their neutral hydrogen content in the spectra of
-background quasars. With this, outlines for a new study in this manner is proposed, detailing the
-aims, data and method for this new investigation.
-
-### Prerequisites
-
-a <s>big</s> massive brain
+background quasars.
 
 ## Authors
 
-* **Alex Woods** - *interpolation queen* - [alexwoodsy](https://github.com/alexwoodsy)
-* **Jason Lunn** - *topcat maestro* - [jasonleelunn](https://github.com/jasonleelunn)
+* **Jason Lunn** - [jasonleelunn](https://github.com/jasonleelunn)
+* **Alex Woods** - [alexwoodsy](https://github.com/alexwoodsy)
 
 ## Acknowledgments
 
 * University of Nottingham - Department of Physics and Astronomy
-* Assistant Professor Nina Hatch (Project Supervisor)
+* Assistant Professor Dr Nina Hatch (Project Supervisor)
 
 ## Changelog
 
-sorting some major gittttt
+* Uploaded all relevant files
+* Updated README
 
 ## Built With
 
 ```
 * Python
-
+* TOPCAT
