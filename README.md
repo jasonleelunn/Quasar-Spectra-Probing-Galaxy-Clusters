@@ -12,6 +12,10 @@ to background quasars. This work utilised this quasar probing technique
 to study protoclusters by measuring absorption of their neutral hydrogen content in the spectra of
 background quasars.
 
+## Outline of Code
+
+The code of the project is split into two main components, Continuum Fitting and Spectrum Stacking. The original spectra are first fit using the scripts in the Continuum Fitting folder in order to produce fitted spectra. The fitted spectra are then stacked to produces results, a sample of the various scripts used to do this can be found in the Stacking Scripts folder. These scripts are generic outlines of multiple versions of code used to produce all of the final results for the scientific data. Due to the sheer volume of spectral data involved in this project, only a small sample of approximately 20 spectra (original and their fitted counter-parts) are showcased in this repository.
+
 ## Authors
 
 * **Jason Lunn** - [jasonleelunn](https://github.com/jasonleelunn)
