@@ -5,11 +5,8 @@ from astropy.io import fits
 from scipy import interpolate, signal
 from scipy.optimize import curve_fit as cf
 import os, time, sys
-sys.path.append('C:/Users/alexw/Documents/GitHub/4th_year_project_git/Continuum fitting/Fitting new')
 import fastfit_v1 as fitmethod
-#path for other pc sys.path.append('C:/Users/alexw/OneDrive/Documents/University work/4th year work/Main project/4th_year_project_git/Continuum fitting')
 
-#plt.style.use('mystyle') #path C:\Users\alexw\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\stylelib
 
 def findval(array,val):
     array = np.asarray(array)
